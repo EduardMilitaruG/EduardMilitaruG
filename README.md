@@ -41,6 +41,6 @@ I am multilingual with professional proficiency in:
 
 ## 📫 Get in Touch
 
-* **Email**: [Meduardmilitarug@gmail.com](mailto:Meduardmilitarug@gmail.com)
-* **LinkedIn**: [Gheorghe Eduard Militaru](https://www.linkedin.com/)
+* **Email**: [eduardmilitarug@gmail.com](mailto:eduardmilitarug@gmail.com)
+* **LinkedIn**: [Gheorghe Eduard Militaru](https://www.linkedin.com/in/eduardmilitaru/)
 * **GitHub**: [@EduardMilitaruG](https://github.com/EduardMilitaruG)
