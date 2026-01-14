@@ -1,7 +1,9 @@
 # Hi there, I'm Gheorghe Eduard Militaru! 👋
-### 🚀 Software Developer | Full Stack & IoT Specialist
+### 🚀 Software Developer | Full Stack
 
-Based in **Valencia, Spain**, I am a motivated Software Developer with experience in building scalable applications and providing technical support. My core strengths lie in **Front-End Development**, **Back-End Engineering**, and **automation with Python**. I also have a strong interest in **IoT technologies** and **Machine Learning**.
+Based in **Valencia, Spain**, I am a motivated Software Developer with experience in building scalable applications and providing technical support. My core strengths lie in **Front-End Development (React)**, **Back-End Engineering (Node.js)**, and **automation with Python**. I also have a strong interest in **IoT technologies** and **Machine Learning**,
+
+> 🟢 **Open to Work:** I am actively seeking **Software Developer** jobs and am also available for **small projects** or freelance opportunities.
 
 ---
 
