@@ -1,46 +1,27 @@
-# Hi there, I'm Gheorghe Eduard Militaru! 👋
-### 🚀 Software Developer | Full Stack
+# Eduard Militaru
 
-Based in **Valencia, Spain**, I am a motivated Software Developer with experience in building scalable applications and providing technical support. My core strengths lie in **Front-End Development**, **Back-End Engineering**, and **automation with Python**. I also have a strong interest in **IoT technologies** and **Machine Learning**,
+**QA & Test Automation** · Playwright · TypeScript · Postman · SQL
+Castellón, Spain · open to travel and relocation within Europe
 
-> 🟢 **Open to Work:** I am actively seeking **Software Developer** jobs and am also available for **small projects** or freelance opportunities.
+I test software before it reaches users: end-to-end automation with Playwright and TypeScript, API validation with Postman and test data with SQL. I come from development, so I understand the code I test.
 
----
+At OpenMS I built frontend features (React, TypeScript) and Node.js endpoints for three public-administration web apps, validated their APIs with Postman before deployment and prepared SQL test data on PostgreSQL. I also commissioned an IoT buoy system over LoRaWAN in low-coverage areas.
 
-## 🛠️ Tech Stack
+## Projects
 
-**💻 Core Languages**
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+| Project | What it shows |
+| --- | --- |
+| [JobFy v2](https://github.com/EduardMilitaruG/JobFy-v2) | Full-stack app (React, TypeScript, Node.js, PostgreSQL, Docker) with 83 automated backend, component and end-to-end tests in a GitHub Actions pipeline |
+| [Warehouse Order Simulator](https://github.com/EduardMilitaruG/warehouse-simulator) | Warehouse order pipeline with a state machine, PostgreSQL, structured logs and fault injection, plus a SQL diagnostic runbook |
+| [FinByt](https://github.com/EduardMilitaruG/FinByt) | Full-stack portfolio tracker with JWT auth and live prices, TypeScript end to end |
 
-**🌐 Web Development & Databases**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![NoSQL](https://img.shields.io/badge/-NoSQL-4479A1?style=flat)
+## Tools
 
-**🔧 Tools, IoT & Game Dev**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![IoT](https://img.shields.io/badge/-IoT-green?style=flat)
-![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+**Testing:** Playwright, Postman, Jest, Supertest
+**Code:** TypeScript, JavaScript, React, Node.js, SQL (PostgreSQL)
+**Tooling:** Git, Docker, GitHub Actions, Linux
 
----
+## Contact
 
-## 🗣️ Languages
-I am multilingual with professional proficiency in:
-* **English** 🇬🇧
-* **Spanish** 🇪🇸
-* **Romanian** 🇷🇴
-
----
-
-## 📫 Get in Touch
-
-* **Email**: [eduardmilitarug@gmail.com](mailto:eduardmilitarug@gmail.com)
-* **LinkedIn**: [Gheorghe Eduard Militaru](https://www.linkedin.com/in/eduardmilitaru/)
-* **GitHub**: [@EduardMilitaruG](https://github.com/EduardMilitaruG)
+[LinkedIn](https://www.linkedin.com/in/eduardmilitaru/) · [Portfolio](https://eduardmilitarug.github.io) · eduardmilitarug@gmail.com
+Spanish · English · Romanian
