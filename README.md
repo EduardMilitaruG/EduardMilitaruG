@@ -11,9 +11,10 @@ At OpenMS I built frontend features (React, TypeScript) and Node.js endpoints fo
 
 | Project | What it shows |
 | --- | --- |
-| [JobFy v2](https://github.com/EduardMilitaruG/JobFy-v2) | Full-stack app (React, TypeScript, Node.js, PostgreSQL, Docker) with 83 automated backend, component and end-to-end tests in a GitHub Actions pipeline |
+| [JobFy v2](https://github.com/EduardMilitaruG/JobFy-v2) | Full-stack app (React, TypeScript, Node.js, PostgreSQL, Docker) with 72 backend and component tests in a GitHub Actions pipeline |
+| [JobFy Playwright Tests](https://github.com/EduardMilitaruG/jobfy-playwright-tests) | 55 Playwright + TypeScript API, browser and mobile tests that boot JobFy v2 against PostgreSQL in CI. Found three bugs (500s on bad ids and missing deletes, mobile overflow), fixed in JobFy v2 |
 | [Warehouse Order Simulator](https://github.com/EduardMilitaruG/warehouse-simulator) | Warehouse order pipeline with a state machine, PostgreSQL, structured logs and fault injection, plus a SQL diagnostic runbook |
-| [FinByt](https://github.com/EduardMilitaruG/FinByt) | Full-stack portfolio tracker with JWT auth and live prices, TypeScript end to end |
+| [FinByt](https://github.com/EduardMilitaruG/FinByt) | Full-stack portfolio tracker (React, Express, SQLite) with JWT auth and live CoinGecko prices |
 
 ## Tools
 
